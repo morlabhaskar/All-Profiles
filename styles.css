@@ -17,8 +17,8 @@ body img {
 .card {
     border-radius: 10px;
     background-color: #464146;
-    width: 120px;
-    height: 140px;
+    width: 150px;
+    height: 180px;
     padding: 160px;
     display: flex;
     justify-content: center;
